@@ -1,7 +1,3 @@
-3A 
-
-
-
 class Solution:
 
     """This class implements linear queue.
